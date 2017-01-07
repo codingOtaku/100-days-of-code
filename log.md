@@ -23,3 +23,9 @@
 **Thoughts**: The problem itself was easy. But had to look up many things on Python which is good I guess.
 
 **Link to work:** [Solution32](https://github.com/codingOtaku/project-euler-solutions/blob/master/solutions/prob32.py)
+
+### Day 4: January 7, 2017
+
+**Today's Progress**: Solved [Problem 33](https://projecteuler.net/problem=33) and  [Problem 34](https://projecteuler.net/problem=34) on ProjectEuler.
+
+**Thoughts**: Functions like `gcd` and `factorial` are readily available. Makes life so much easier.
