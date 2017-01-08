@@ -29,3 +29,9 @@
 **Today's Progress**: Solved [Problem 33](https://projecteuler.net/problem=33) and  [Problem 34](https://projecteuler.net/problem=34) on ProjectEuler.
 
 **Thoughts**: Functions like `gcd` and `factorial` are readily available. Makes life so much easier.
+
+### Day 5: January 8, 2017
+
+**Today's Progress**: Solved [Problem 35](https://projecteuler.net/problem=35) on ProjectEuler.
+
+**Thoughts**: Didn't know about the `all` and `any` functions.
