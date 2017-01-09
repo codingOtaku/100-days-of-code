@@ -35,3 +35,9 @@
 **Today's Progress**: Solved [Problem 35](https://projecteuler.net/problem=35) on ProjectEuler.
 
 **Thoughts**: Didn't know about the `all` and `any` functions.
+
+### Day 6: January 9, 2017
+
+**Today's Progress**: Solved [Problem 36](https://projecteuler.net/problem=36) on ProjectEuler.
+
+**Thoughts**: Didn't know set intersections and unions could be done directly. Stuck on 37 though. 
