@@ -41,3 +41,15 @@
 **Today's Progress**: Solved [Problem 36](https://projecteuler.net/problem=36) on ProjectEuler.
 
 **Thoughts**: Didn't know set intersections and unions could be done directly. Stuck on 37 though. 
+
+### Day 7: January 10, 2017
+
+**Today's Progress**: Read and coded (a simple version of) item 1 of Effective Java.
+
+**Thoughts**: Thinking of an example is hard.
+
+### Day 8: January 11, 2017
+
+**Today's Progress**: Read and coded (a simple version of) item 2 of Effective Java.
+
+**Thoughts**: Was easier today.
