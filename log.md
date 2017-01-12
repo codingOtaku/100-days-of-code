@@ -53,3 +53,9 @@
 **Today's Progress**: Read and coded (a simple version of) item 2 of Effective Java.
 
 **Thoughts**: Was easier today.
+
+### Day 9: January 12, 2017
+
+**Today's Progress**: Read and coded (simple versions of) item 3 and 4 of Effective Java.
+
+**Thoughts**: Small but important concepts.
