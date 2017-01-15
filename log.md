@@ -65,3 +65,9 @@
 **Today's Progress**: Read and coded (simple versions of) item 5 and 6 of Effective Java.
 
 **Thoughts**: Theoretical stuff but significant. 
+
+### Day 11: January 15, 2017
+
+**Today's Progress**: Solved [Problem 37](https://projecteuler.net/problem=37) on ProjectEuler.
+
+**Thoughts**: Was stuck for quite some time. (Also, skipped a day... festivities). 
