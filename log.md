@@ -71,3 +71,9 @@
 **Today's Progress**: Solved [Problem 37](https://projecteuler.net/problem=37) on ProjectEuler.
 
 **Thoughts**: Was stuck for quite some time. (Also, skipped a day... festivities). 
+
+### Day 12: January 17, 2017
+
+**Today's Progress**: Played around with Tweepy
+
+**Thoughts**: We can add a string using the + sign on an email! 
