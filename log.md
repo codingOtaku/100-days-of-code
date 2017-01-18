@@ -77,3 +77,9 @@
 **Today's Progress**: Played around with Tweepy
 
 **Thoughts**: We can add a string using the + sign on an email! 
+
+### Day 13: January 18, 2017
+
+**Today's Progress**: Tokenized the tweets and created a frequency table.
+
+**Thoughts**: Looks like most are doing JS.
