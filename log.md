@@ -83,3 +83,9 @@
 **Today's Progress**: Tokenized the tweets and created a frequency table.
 
 **Thoughts**: Looks like most are doing JS.
+
+### Day 14: January 19, 2017
+
+**Today's Progress**: Added stopword remover.
+
+**Thoughts**: NLTK makes most things super easy...
