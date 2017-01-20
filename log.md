@@ -89,3 +89,9 @@
 **Today's Progress**: Added stopword remover.
 
 **Thoughts**: NLTK makes most things super easy...
+
+### Day 15: January 20, 2017
+
+**Today's Progress**: Tried out [Problem 38](https://projecteuler.net/problem=38). Stuck.
+
+**Thoughts**: And sleepy...
