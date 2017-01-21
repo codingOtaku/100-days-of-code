@@ -95,3 +95,9 @@
 **Today's Progress**: Tried out [Problem 38](https://projecteuler.net/problem=38). Stuck.
 
 **Thoughts**: And sleepy...
+
+### Day 16: January 21, 2017
+
+**Today's Progress**: Solved [Problem 38](https://projecteuler.net/problem=38) and [Problem 39](https://projecteuler.net/problem=39)
+
+**Thoughts**: Rather easy.
