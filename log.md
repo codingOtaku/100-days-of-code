@@ -107,3 +107,9 @@
 **Today's Progress**: Solved [Problem 38](https://projecteuler.net/problem=38) and [Problem 40](https://projecteuler.net/problem=40)
 
 **Thoughts**: The brute-force way was immensely straightforward. The other way, not so much.
+
+### Day 18 January 24, 2017
+
+**Today's Progress**: Solved [Problem 41](https://projecteuler.net/problem=41).
+
+**Thoughts**: 
