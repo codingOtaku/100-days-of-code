@@ -113,3 +113,9 @@
 **Today's Progress**: Solved [Problem 41](https://projecteuler.net/problem=41).
 
 **Thoughts**: 
+
+### Day 19 January 25, 2017
+
+**Today's Progress**: Read up on Items 7, 8 and 9 from Effective Java.
+
+**Thoughts**: So much thought behind seemingly simple looking methods.
