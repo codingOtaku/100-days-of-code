@@ -119,3 +119,9 @@
 **Today's Progress**: Read up on Items 7, 8 and 9 from Effective Java.
 
 **Thoughts**: So much thought behind seemingly simple looking methods.
+
+### Day 20 January 30, 2017
+
+**Today's Progress**: Implemented a very simple Neural Network.
+
+**Thoughts**: I need to understand the fundamentals.
