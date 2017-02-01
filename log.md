@@ -131,3 +131,9 @@
 **Today's Progress**: Read up on Items 10, 11 from Effective Java.
 
 **Thoughts**: The Cloneable interface is messed up...
+
+### Day 22 February 1, 2017
+
+**Today's Progress**: Implemented a very simple Gradient Descent to solve a linear regression problem.
+
+**Thoughts**: I don't know maths. Need to change that.
