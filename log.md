@@ -125,3 +125,9 @@
 **Today's Progress**: Implemented a very simple Neural Network.
 
 **Thoughts**: I need to understand the fundamentals.
+
+### Day 21 January 31, 2017
+
+**Today's Progress**: Read up on Items 10, 11 from Effective Java.
+
+**Thoughts**: The Cloneable interface is messed up...
